@@ -7,6 +7,7 @@ The simplest images gallery created with CSS Grid for those who want their websi
 
 ![Screenshot](Screenshot.jpg)
 
+[Demo](https://gnkalk.github.io/Vanilla-Gallery/Gallery/)
 </div>
 
 ### Contribute 🤝
