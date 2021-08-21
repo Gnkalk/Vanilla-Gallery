@@ -21,10 +21,14 @@
     height: 100%;
 }
 
-.box1 {
+.gallery > .big {
     grid-column: 1/3;
+    grid-row: 1/3;
 }
-.box2 {
+.gallery > .double-row {
     grid-column: 3;
     grid-row: 1/3;
+}
+.gallery > .double-column {
+    grid-column: 1/3;
 }
