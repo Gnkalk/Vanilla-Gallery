@@ -10,6 +10,14 @@ The simplest images gallery created with CSS Grid for those who want their websi
 [Demo](https://gnkalk.github.io/Vanilla-Gallery/Gallery/)
 </div>
 
+### CSS Script 
+This Project Only One CSS Script..
+
+**Link in [Rawgit CDN](https://rawgit.org)**
+```
+https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Gallery/style.css
+```
+
 ### Custom Class 🎨
 
 This project includes custom classes that you can use to make your gallery better than before 😃
