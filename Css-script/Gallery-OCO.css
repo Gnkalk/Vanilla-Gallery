@@ -1,0 +1,42 @@
+.gallery {
+    display: grid;
+    grid-template-columns:repeat(3, 32.8%);
+    grid-auto-rows: minmax(100px ,auto);
+    grid-column-gap: 0.3%;
+    grid-row-gap: 0.2%;
+    justify-items: stretch;
+    padding-bottom: 1%;
+}
+
+.gallery > div {
+    margin: 5px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+.gallery > div > img {
+    width: 100%;
+
+    /* Resize images */
+    height: 100%;
+}
+
+.gallery > .big {
+    grid-column: 1/3;
+    grid-row: 1/3;
+}
+.gallery > .double-row {
+    grid-column: 3;
+    grid-row: 1/3;
+}
+.gallery > .double-row-two {
+    grid-column: 2;
+    grid-row: 1/3;
+}
+
+.gallery > .double-row-one {
+    grid-column: 1;
+    grid-row: 1/3;
+}
+.gallery > .double-column {
+    grid-column: 1/3;
+}

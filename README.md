@@ -14,9 +14,34 @@ The simplest images gallery created with CSS Grid for those who want their websi
 This Project Only One CSS Script..
 
 **Link in [Rawgit CDN](https://rawgit.org)**
+
+<details>
+    <summary>Resize On</summary>
+    <br>
+
+**Normal**
 ```
-https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Gallery/style.css
+https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Css-script/Gallery.css
 ```
+**Double Row Other Column On**
+```
+https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Css-script/Gallery-OCO.css
+```
+
+</details>
+<details>
+    <summary>Resize Off</summary>
+    <br>
+
+**Normal**
+```
+https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Css-script/RO/Gallery.css
+```
+**Double Row Other Column On**
+```
+https://ghcdn.rawgit.org/Gnkalk/Vanilla-Gallery/main/Css-script/RO/Gallery-OCO.css
+```
+</details>
 
 ### Custom Class 🎨
 
