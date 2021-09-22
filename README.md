@@ -6,6 +6,7 @@ The simplest images gallery created with CSS Grid for those who want their websi
 
 
 ![Screenshot](Screenshot.jpg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-Gallery.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-Gallery?ref=badge_shield)
 
 [Demo](https://gnkalk.github.io/Vanilla-Gallery/Gallery/)
 </div>
@@ -61,3 +62,6 @@ The project is published and maintained under the GPL version 3 license, and the
 <div align="center">
 
 **Developing with ❤️ by Gnkalk & [Contributors](https://github.com/Gnkalk/Vanilla-Gallery/graphs/contributors). 2021 ©**
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-Gallery.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGnkalk%2FVanilla-Gallery?ref=badge_large)
